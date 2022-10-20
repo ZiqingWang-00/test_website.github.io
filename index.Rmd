@@ -1,0 +1,30 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+Here is how you insert a [link](https://www.google.com/).
+
+Insert code chunks:
+```{r}
+library(tidyverse)
+```
+
+```{r}
+sample = rnorm(1000)
+```
+
+Link to [about](about.html)
+or the same link to the markdown of [about](About.Rmd)
+
+You can change the font in icon in the yml file
+
+
