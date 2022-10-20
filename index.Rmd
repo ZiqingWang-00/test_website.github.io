@@ -25,6 +25,8 @@ sample = rnorm(1000)
 Link to [about](about.html)
 or the same link to the markdown of [about](About.Rmd)
 
-You can change the font in icon in the yml file
+You can change the font in icon in the yml file.
+
+Deploy it online..
 
 
