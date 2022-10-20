@@ -22,7 +22,7 @@ library(tidyverse)
 sample = rnorm(1000)
 ```
 
-Link to [about](about.html)
+Link to [about](About.html)
 or the same link to the markdown of [about](About.Rmd)
 
 You can change the font in icon in the yml file.
